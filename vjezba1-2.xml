@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Luka</ime>
+    <prezime>Tominac</prezime>
+    <JMBG>1234564146</JMBG>
+    <DoB>2005-08-17</DoB>
+    <god_studija>2</god_studija>
+
+    <kontakt>
+        <mailadresa>ltominac@tvz.hr</mailadresa>
+        <telefon>09550661123</telefon>
+    </kontakt>
+
+    <kolegiji>
+        <kolegij>
+            <naziv>Drustvene Mreze</naziv>
+            <ime_prof>Bosko Buha</ime_prof>
+            <br_ects>2</br_ects>
+        </kolegij>
+
+        <kolegij>
+            <naziv>Inovacije u informatici</naziv>
+            <ime_prof>Ante Lupakante</ime_prof>
+            <br_ects>3</br_ects>
+        </kolegij>
+    
+        <kolegij>
+            <naziv>Matematika II</naziv>
+            <ime_prof>Fran Safran</ime_prof>
+            <br_ects>4</br_ects>
+        </kolegij>
+ 
+    
+    </kolegiji>
+  
+
+</student>                              
