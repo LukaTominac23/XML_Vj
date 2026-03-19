@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Luka</ime>
+    <prezime>Tominac</prezime>
+    <JMBAG>1234564146</JMBAG>
+    <DoB>2005-08-17</DoB>
+    <god_studija>2</god_studija>
+    <studijski_program>INF_ELPO</studijski_program>
+
+    <adresa>
+        <ulica>Huberta Pettana 1</ulica>
+        <grad>Zagreb</grad>
+        <zip>10360</zip>
+    </adresa>
+
+
+
+</student>
