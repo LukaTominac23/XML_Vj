@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="narudzba.xsd">
+    
+    <kupac>Luka</kupac>
+    <datumNarudzbe>2026-03-03</datumNarudzbe>
+    <kolicina>3</kolicina>
+    <statusNarudzbe>u_obradi</statusNarudzbe>
+    <ukupanIznos valuta="EUR">102.11</ukupanIznos>
+    
+    
+</narudzba>
