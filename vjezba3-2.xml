@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<narudzba>
+
+    <ime>Luka</ime>
+    <prezime>Tominac</prezime>
+    <mjestostanovanja>
+        <adresa>hb4</adresa>
+        <grad>sesvete</grad>
+        <drzava>hr</drzava>
+    </mjestostanovanja>
+    <naruceniartikl>
+        <naziv>grah</naziv>
+        <kolicina>1 kg</kolicina>
+        <cijena>12.99</cijena>
+    </naruceniartikl>
+
+
+</narudzba>
