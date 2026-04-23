@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--da se izbjegne konflikt stvaramo namespace posebni za racun i za narudzbu jer su im elementi
+iste vrijednost. namespace n za narudzbu i r za racun!-->
+<dokumenti xmlns:n="http://primjer.com/narduzba"
+            xmlns:r="http://primjer.com/racun">
+        
+        <n:narduzba>
+            <n:broj>N-2026-015</n:broj>
+            <n:datum>2026-8-04</n:datum>
+            <n:iznos>189.99 EUR</n:iznos>
+        </n:narduzba>
+        
+        <r:racun>
+            <r:broj>N-2026-015</r:broj>
+            <r:datum>2026-8-04</r:datum>
+            <r:iznos>189.99 EUR</r:iznos>
+        </r:racun>
+
+   
+        </dokumenti>
