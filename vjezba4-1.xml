@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="osoba.xsd">
+
+    <ime>Luka</ime>
+    <cijena>11.99</cijena>
+    <godine>2022</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>2005-08-17</datumRodjenja>
+    <vrijemePocetak>11:25:00</vrijemePocetak>
+  
+</osoba>
