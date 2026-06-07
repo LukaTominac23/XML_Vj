@@ -1,0 +1,44 @@
+{
+  "ime": "Petar",
+  "prezime": "Kovač",
+  "starost": 30,
+  "grad": "Zagreb",
+  "zaposlen": true,
+  "auti": [
+    {
+      "marka": "Ford",
+      "model": "Mustang",
+      "godina": 2018,
+      "registriran": true,
+      "cijena":100000
+    },
+    {
+      "marka": "BMW",
+      "model": "X1",
+      "godina": 2020,
+      "registriran": true,
+      "cijena":80000
+    },
+    {
+      "marka": "Fiat",
+      "model": "500",
+      "godina": 2015,
+      "registriran": false,
+      "cijena":100000
+    },
+    {
+      "marka": "Ferrari",
+      "model": "911",
+      "godina": 2025,
+      "registriran": false,
+      "cijena":200000
+    },
+    {
+      "marka": "Porsche",
+      "model": "Taycan",
+      "godina": 2019,
+      "registriran": true,
+      "cijena":120000
+    }
+  ]
+}
