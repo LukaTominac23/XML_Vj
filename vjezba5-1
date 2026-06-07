@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Popis studenata -->
+<Studenti>
+	<Version>23.456</Version>
+	<Student RedniBroj="1">
+		<Ime>Miro</Ime>
+		<Prezime>Mirić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1987</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<!-- Pohađanje vježbi -->
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="2">
+		<Ime>Dara</Ime>
+		<Prezime>Daričić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1972</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="3">
+		<Ime>Vesna</Ime>
+		<Prezime>Vesničić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1980</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="4">
+		<Ime>Željko</Ime>
+		<Prezime>Željić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1985</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="5">
+		<Ime>Ana</Ime>
+		<Prezime>Anić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1999</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="6">
+		<Ime>Ivan</Ime>
+		<Prezime>Ivić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>2002</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="7">
+		<Ime>Petra</Ime>
+		<Prezime>Petrić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1970</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="8">
+		<Ime>Marko</Ime>
+		<Prezime>Marković</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1973</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="9">
+		<Ime>Ivana</Ime>
+		<Prezime>Ivančić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1976</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="10">
+		<Ime>Luka</Ime>
+		<Prezime>Lukić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1979</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="11">
+		<Ime>Maja</Ime>
+		<Prezime>Majić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1982</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="12">
+		<Ime>Karlo</Ime>
+		<Prezime>Karlović</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1985</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="13">
+		<Ime>Nina</Ime>
+		<Prezime>Ninić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1988</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="14">
+		<Ime>Tomislav</Ime>
+		<Prezime>Tomić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1991</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="15">
+		<Ime>Sara</Ime>
+		<Prezime>Sarić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1994</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="16">
+		<Ime>Filip</Ime>
+		<Prezime>Filipović</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1997</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="17">
+		<Ime>Lucija</Ime>
+		<Prezime>Lucić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>2000</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="18">
+		<Ime>Matej</Ime>
+		<Prezime>Matejić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>2003</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="19">
+		<Ime>Ema</Ime>
+		<Prezime>Emić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1971</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="20">
+		<Ime>Nikola</Ime>
+		<Prezime>Nikolić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1974</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="21">
+		<Ime>Marija</Ime>
+		<Prezime>Marić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1977</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="22">
+		<Ime>David</Ime>
+		<Prezime>Davidović</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1980</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="23">
+		<Ime>Lea</Ime>
+		<Prezime>Leičić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1983</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="24">
+		<Ime>Josip</Ime>
+		<Prezime>Josipović</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1986</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="25">
+		<Ime>Tena</Ime>
+		<Prezime>Tenić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1989</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="26">
+		<Ime>Miro</Ime>
+		<Prezime>Mirić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1992</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="27">
+		<Ime>Dara</Ime>
+		<Prezime>Daričić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1995</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="28">
+		<Ime>Vesna</Ime>
+		<Prezime>Vesničić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1998</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="29">
+		<Ime>Željko</Ime>
+		<Prezime>Željić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>2001</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="30">
+		<Ime>Ana</Ime>
+		<Prezime>Anić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>2004</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="31">
+		<Ime>Ivan</Ime>
+		<Prezime>Ivić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1972</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="32">
+		<Ime>Petra</Ime>
+		<Prezime>Petrić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1975</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="33">
+		<Ime>Marko</Ime>
+		<Prezime>Marković</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1978</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="34">
+		<Ime>Ivana</Ime>
+		<Prezime>Ivančić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1981</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="35">
+		<Ime>Luka</Ime>
+		<Prezime>Lukić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1984</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="36">
+		<Ime>Maja</Ime>
+		<Prezime>Majić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1987</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="37">
+		<Ime>Karlo</Ime>
+		<Prezime>Karlović</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1990</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="38">
+		<Ime>Nina</Ime>
+		<Prezime>Ninić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1993</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="39">
+		<Ime>Tomislav</Ime>
+		<Prezime>Tomić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1996</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="40">
+		<Ime>Sara</Ime>
+		<Prezime>Sarić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1999</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="41">
+		<Ime>Filip</Ime>
+		<Prezime>Filipović</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>2002</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="42">
+		<Ime>Lucija</Ime>
+		<Prezime>Lucić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1970</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="43">
+		<Ime>Matej</Ime>
+		<Prezime>Matejić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1973</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="44">
+		<Ime>Ema</Ime>
+		<Prezime>Emić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1976</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="45">
+		<Ime>Nikola</Ime>
+		<Prezime>Nikolić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1979</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="46">
+		<Ime>Marija</Ime>
+		<Prezime>Marić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1982</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="47">
+		<Ime>David</Ime>
+		<Prezime>Davidović</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1985</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="48">
+		<Ime>Lea</Ime>
+		<Prezime>Leičić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1988</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="49">
+		<Ime>Josip</Ime>
+		<Prezime>Josipović</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1991</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="50">
+		<Ime>Tena</Ime>
+		<Prezime>Tenić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1994</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="51">
+		<Ime>Miro</Ime>
+		<Prezime>Mirić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1997</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="52">
+		<Ime>Dara</Ime>
+		<Prezime>Daričić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>2000</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="53">
+		<Ime>Vesna</Ime>
+		<Prezime>Vesničić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>2003</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="54">
+		<Ime>Željko</Ime>
+		<Prezime>Željić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1971</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="55">
+		<Ime>Ana</Ime>
+		<Prezime>Anić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1974</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="56">
+		<Ime>Ivan</Ime>
+		<Prezime>Ivić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1977</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="57">
+		<Ime>Petra</Ime>
+		<Prezime>Petrić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1980</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="58">
+		<Ime>Marko</Ime>
+		<Prezime>Marković</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1983</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="59">
+		<Ime>Ivana</Ime>
+		<Prezime>Ivančić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1986</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="60">
+		<Ime>Luka</Ime>
+		<Prezime>Lukić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1989</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="61">
+		<Ime>Maja</Ime>
+		<Prezime>Majić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1992</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="62">
+		<Ime>Karlo</Ime>
+		<Prezime>Karlović</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1995</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="63">
+		<Ime>Nina</Ime>
+		<Prezime>Ninić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1998</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="64">
+		<Ime>Tomislav</Ime>
+		<Prezime>Tomić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>2001</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="65">
+		<Ime>Sara</Ime>
+		<Prezime>Sarić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>2004</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="66">
+		<Ime>Filip</Ime>
+		<Prezime>Filipović</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1972</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="67">
+		<Ime>Lucija</Ime>
+		<Prezime>Lucić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1975</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="68">
+		<Ime>Matej</Ime>
+		<Prezime>Matejić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1978</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="69">
+		<Ime>Ema</Ime>
+		<Prezime>Emić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1981</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="70">
+		<Ime>Nikola</Ime>
+		<Prezime>Nikolić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1984</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="71">
+		<Ime>Marija</Ime>
+		<Prezime>Marić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1987</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="72">
+		<Ime>David</Ime>
+		<Prezime>Davidović</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1990</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="73">
+		<Ime>Lea</Ime>
+		<Prezime>Leičić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1993</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="74">
+		<Ime>Josip</Ime>
+		<Prezime>Josipović</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1996</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="75">
+		<Ime>Tena</Ime>
+		<Prezime>Tenić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1999</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="76">
+		<Ime>Miro</Ime>
+		<Prezime>Mirić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>2002</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="77">
+		<Ime>Dara</Ime>
+		<Prezime>Daričić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1970</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="78">
+		<Ime>Vesna</Ime>
+		<Prezime>Vesničić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1973</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="79">
+		<Ime>Željko</Ime>
+		<Prezime>Željić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1976</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="80">
+		<Ime>Ana</Ime>
+		<Prezime>Anić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1979</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="81">
+		<Ime>Ivan</Ime>
+		<Prezime>Ivić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1982</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="82">
+		<Ime>Petra</Ime>
+		<Prezime>Petrić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1985</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="83">
+		<Ime>Marko</Ime>
+		<Prezime>Marković</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1988</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="84">
+		<Ime>Ivana</Ime>
+		<Prezime>Ivančić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1991</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="85">
+		<Ime>Luka</Ime>
+		<Prezime>Lukić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1994</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="86">
+		<Ime>Maja</Ime>
+		<Prezime>Majić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1997</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="87">
+		<Ime>Karlo</Ime>
+		<Prezime>Karlović</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>2000</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="88">
+		<Ime>Nina</Ime>
+		<Prezime>Ninić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>2003</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="89">
+		<Ime>Tomislav</Ime>
+		<Prezime>Tomić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1971</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="90">
+		<Ime>Sara</Ime>
+		<Prezime>Sarić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1974</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="91">
+		<Ime>Filip</Ime>
+		<Prezime>Filipović</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1977</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="92">
+		<Ime>Lucija</Ime>
+		<Prezime>Lucić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1980</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="93">
+		<Ime>Matej</Ime>
+		<Prezime>Matejić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1983</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="94">
+		<Ime>Ema</Ime>
+		<Prezime>Emić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1986</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="95">
+		<Ime>Nikola</Ime>
+		<Prezime>Nikolić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1989</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">5</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="96">
+		<Ime>Marija</Ime>
+		<Prezime>Marić</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>1992</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">0</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="97">
+		<Ime>David</Ime>
+		<Prezime>Davidović</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1995</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">3</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">1</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">NE</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="98">
+		<Ime>Lea</Ime>
+		<Prezime>Leičić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1998</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">NE</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="99">
+		<Ime>Josip</Ime>
+		<Prezime>Josipović</Prezime>
+		<Grupa>C</Grupa>
+		<GodinaRodjenja>2001</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">1</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="100">
+		<Ime>Tena</Ime>
+		<Prezime>Tenić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>2004</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">4</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+</Studenti>
+<!-- XML programiranje XPath -->
+
+
+/Studenti/*        -> sva djeca Studenti
+//Student/*          -> sva djeca svakog Student
+//Kolokvij[@*]       -> Kolokvij s bilo kojim atributom
+//@*                 -> svi atributi
+//Predmet/*          -> sva direktna djeca Predmet
+//Predmet//*      
