@@ -1,3 +1,11 @@
+/Studenti/*        -> sva djeca Studenti
+//Student/*          -> sva djeca svakog Student
+//Kolokvij[@*]       -> Kolokvij s bilo kojim atributom
+//@*                 -> svi atributi
+//Predmet/*          -> sva direktna djeca Predmet
+//Predmet//*   
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Popis studenata -->
 <Studenti>
@@ -2506,10 +2514,4 @@
 </Studenti>
 <!-- XML programiranje XPath -->
 
-
-/Studenti/*        -> sva djeca Studenti
-//Student/*          -> sva djeca svakog Student
-//Kolokvij[@*]       -> Kolokvij s bilo kojim atributom
-//@*                 -> svi atributi
-//Predmet/*          -> sva direktna djeca Predmet
-//Predmet//*      
+   
